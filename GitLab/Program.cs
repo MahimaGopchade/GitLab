@@ -10,6 +10,7 @@ namespace GitLab
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello");
         }
     }
 }
